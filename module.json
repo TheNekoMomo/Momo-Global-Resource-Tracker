@@ -1,0 +1,36 @@
+{
+  "id": "momo-global-resource-tracker",
+  "title": "Momo's global resource tracker",
+  "description": "Adds a resource tracker above the player list, that the GM can change, syncs with all players",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "authors": [
+    {
+      "name": "Momo",
+      "discord": "mómó#3132",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "socket": true,
+  "scripts": [
+    "scripts/setup.js"
+  ],
+  "styles": [
+    "css/momo-global-resource-tracker.css"
+  ],
+  "url": "Momo-Global-Resource-Tracker",
+  "manifest": "Momo-Global-Resource-Tracker/releases/latest/download/module.json",
+  "download": "Momo-Global-Resource-Tracker/releases/download/V0.0.1/momo-global-resource-tracker.zip"
+}
