@@ -2,10 +2,10 @@
   "id": "momo-global-resource-tracker",
   "title": "Momo's global resource tracker",
   "description": "Adds a resource tracker above the player list, that the GM can change, syncs with all players",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "11"
   },
   "authors": [
     {
@@ -32,5 +32,5 @@
   ],
   "url": "https://github.com/TheNekoMomo/Momo-Global-Resource-Tracker",
   "manifest": "https://github.com/TheNekoMomo/Momo-Global-Resource-Tracker/releases/latest/download/module.json",
-  "download": "https://github.com/TheNekoMomo/Momo-Global-Resource-Tracker/releases/download/V0.0.1/momo-global-resource-tracker.zip"
+  "download": "https://github.com/TheNekoMomo/Momo-Global-Resource-Tracker/releases/download/V0.0.2/momo-global-resource-tracker.zip"
 }
